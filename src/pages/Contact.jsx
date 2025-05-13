@@ -4,10 +4,7 @@ const details = {
   name: 'Dinesh Rout',
   bio: 'Frontend Developer',
   contact: {
-    email: 'rddinesh779@gmail.com',
-    github: 'https://github.com/DineshRout779',
-    linkedin: 'https://www.linkedin.com/in/dineshrout7',
-    twitter: 'https://twitter.com/DineshRout779',
+    email: 'krrajesh91@gmail.com',
   },
 };
 
