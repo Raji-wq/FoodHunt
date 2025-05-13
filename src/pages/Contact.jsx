@@ -1,7 +1,7 @@
 import { ArrowTopRightOnSquareIcon } from '@heroicons/react/24/outline';
 
 const details = {
-  name: 'Dinesh Rout',
+  name: 'RajeshwariKR',
   bio: 'Frontend Developer',
   contact: {
     email: 'krrajesh91@gmail.com',
